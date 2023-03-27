@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/vaibhavkapase1302/Vaibhav-Kapase/blob/main/linkedin-banner.png)
+![Design and Development](https://github.com/vaibhavkapase1302/vaibhavkapase1302/blob/main/Vaibhav%20Kapase%20linkedin%20banner%20Final.png)
 
 
 <html>
