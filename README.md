@@ -23,6 +23,32 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
+
+
+
+
+## :shield:  Badges 
+<html>
+<div>
+      <a href="https://www.credly.com/badges/a3973253-4e95-495b-ba1b-7624ca657d1f">
+         <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/solutions_architect.png" width="150 px" height = "150px" >
+      </a>
+     <a href="https://www.credly.com/badges/f3fe5f9d-0427-4d52-8ffe-ceb9cf3baec3">
+        <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/developer.png" width="150 px" height = "150px" >
+     </a>
+     <a href="https://www.credly.com/badges/7c20de9c-e554-49bb-b4cc-9921046c1198">
+        <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/practitioner.png" width="150 px" height = "150px" >
+     </a>
+     
+    <a href="https://www.credly.com/badges/a606a83c-9f40-4281-94da-3e8ffbe59d85/public_url">
+        <img src="https://github.com/vaibhavkapase1302/Vaibhav-Kapase/blob/main/azure-data-fundamentals.png" width="150 px" height = "150px" >
+     </a>
+   
+  </div>
+</html
+
+
 <h2>
     🛡️ Badges
     </h2> 
