@@ -36,8 +36,8 @@
      <a href="https://www.credly.com/badges/02c28708-7b8d-4cab-893a-c50d268bc22c/public_url">
         <img src="https://github.com/vaibhavkapase1302/vaibhavkapase1302/blob/main/aws-practitioner.png" width="150 px" height = "150px" >
      </a>
-    <a href="https://www.credly.com/badges/f98694af-f545-40e4-950b-152a7faff3d4">
-        <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/azure-fundamentals.png" width="150 px" height = "150px" >
+    <a href="https://www.credly.com/badges/001057ce-2a99-45ad-9bf3-964b65388b04/public_url">
+        <img src="https://github.com/vaibhavkapase1302/vaibhavkapase1302/blob/main/azure-fundamentals.png" width="150 px" height = "150px" >
      </a>
    
   
