@@ -28,9 +28,6 @@
     </h2> 
 <div>
 
-      <a href="https://www.credly.com/badges/1e71511b-51c7-45ad-a053-00c61d71cb1d/public_url">
-         <img src="https://github.com/vaibhavkapase1302/vaibhavkapase1302/blob/main/aws-certified-developer-associate.png" width="150 px" height = "150px" >
-      </a>
 
       <a href="https://www.credly.com/badges/f81f2fe4-769b-4057-86c0-797b5393e17e/public_url">
          <img src="https://github.com/vaibhavkapase1302/Vaibhav-Kapase/blob/main/aws-practitioner.png" width="150 px" height = "150px" >
