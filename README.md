@@ -30,15 +30,15 @@
       <a href="https://www.credly.com/badges/a3973253-4e95-495b-ba1b-7624ca657d1f">
          <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/solutions_architect.png" width="150 px" height = "150px" >
       </a>
-     <a href="https://www.credly.com/badges/f3fe5f9d-0427-4d52-8ffe-ceb9cf3baec3">
-        <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/developer.png" width="150 px" height = "150px" >
+     <a href="https://www.credly.com/badges/1e71511b-51c7-45ad-a053-00c61d71cb1d/public_url">
+        <img src="https://github.com/vaibhavkapase1302/vaibhavkapase1302/blob/main/aws-certified-developer-associate.png" width="150 px" height = "150px" >
      </a>
      <a href="https://www.credly.com/badges/7c20de9c-e554-49bb-b4cc-9921046c1198">
         <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/practitioner.png" width="150 px" height = "150px" >
      </a>
-<!--     <a href="https://www.credly.com/badges/f98694af-f545-40e4-950b-152a7faff3d4">
+    <a href="https://www.credly.com/badges/f98694af-f545-40e4-950b-152a7faff3d4">
         <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/azure-fundamentals.png" width="150 px" height = "150px" >
-     </a> -->
+     </a>
    
   
    
