@@ -39,6 +39,9 @@
 <!--       <a href="https://www.credly.com/badges/a3973253-4e95-495b-ba1b-7624ca657d1f">
          <img src="https://github.com/Anup-Narkhede/Anup-Narkhede/blob/main/solutions_architect.png" width="150 px" height = "150px" >
       </a> -->
+      <a href="https://www.credly.com/badges/121e7792-bed5-4a4f-be08-79d82e65e757/public_url">
+        <img src="https://github.com/vaibhavkapase1302/vaibhavkapase1302/blob/main/aws-certified-developer-associate.png" width="150 px" height = "150px" >
+     </a>
      <a href="https://www.credly.com/badges/1e71511b-51c7-45ad-a053-00c61d71cb1d/public_url">
         <img src="https://github.com/vaibhavkapase1302/vaibhavkapase1302/blob/main/aws-certified-developer-associate.png" width="150 px" height = "150px" >
      </a>
