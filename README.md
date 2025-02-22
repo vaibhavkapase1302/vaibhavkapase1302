@@ -1,5 +1,4 @@
-![Design and Development](https://github.com/vaibhavkapase1302/vaibhavkapase1302/blob/main/Vaibhav%20Kapase%20linkedin%20banner%20Final.png)
-
+![lkd banner](https://github.com/user-attachments/assets/d2ddd313-3bde-45cf-920e-a7063011dd95)
 
 <html>
 <div align="center">
